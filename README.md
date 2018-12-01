@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Advent Of Code 
 
-You can use the [editor on GitHub](https://github.com/dr-holmes/adventOfCode/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Advent of Code is a programming challenge created by Eric Wastl. You can read more about it [here](https://adventofcode.com/2018/about). This repo contains my solutions to these problems, as well as a bit about my thought process behind those solutions. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Rust
 
-### Markdown
+Rust is a...well, it's a lot of things to different people. For my purposes, it's a general purpose programming language that operates with the same power and flexibility as C/C++, without the footguns of the former and the ugliness of the latter. [You can read more about the language here](https://www.rust-lang.org/).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I've been leading a project in Rust for about a half year at work, and would like to be better at it at the hands on level. I stil tend to think in terms of Python and C, and I'm using this month of code as a means of forcing myself to be better at it, and a more dilligent programmer.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dr-holmes/adventOfCode/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
